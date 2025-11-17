@@ -18,8 +18,8 @@ h1, h2 {
     padding: 5px 20px;
     margin-bottom: 20px;
 }
-#statut-serveur-principal, #statut-camera-1 {
+#statut-serveur-principal, #statut-camera-1, #statut-pare-feu {
     font-size: 1.2em;
     font-weight: bold;
-    color: #006eff; /* Orange (couleur "En attente") */
+    color: #ff7300; /* Orange (couleur "En attente") */
 }
